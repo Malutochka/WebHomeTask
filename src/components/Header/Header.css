@@ -1,0 +1,16 @@
+.header{
+    background: #cb2d41;
+    padding: 10px 0;
+    height: 100px;
+}
+
+.header-right{
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+}
+
+*{
+    box-sizing: border-box;
+}
+

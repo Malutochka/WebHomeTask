@@ -1,0 +1,15 @@
+.intro{
+    display: flex;
+    flex-direction: column;
+
+    width: 100%;
+    height: auto;
+    background-image: url(./pass.jpg);
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+*{
+    box-sizing: border-box;
+}
